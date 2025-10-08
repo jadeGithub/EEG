@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>-----</item>
+        <item>x1080</item>
+        <item>x1360</item>
+        <item>x1440</item>
+        <item>x2040</item>
+        <item>close</item>
+    </string-array>
+</resources>

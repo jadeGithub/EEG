@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private LineChart lineChart1,lineChart2,lineChart3,lineChart4;
     private LineChartView lineChartView1,lineChartView2,lineChartView3,lineChartView4;
 
-    private static final float  WIDTH = 1680;//参考设备的宽，单位是dp DPI:160时
+    private static final float  WIDTH = 1024;//参考设备的宽，单位是dp DPI:160时
     private static float appDensity;//表示屏幕密度
     private static float appScaleDensity; //字体缩放比例，默认appDensity
 
